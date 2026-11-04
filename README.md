@@ -13,6 +13,11 @@ The logo files in `profile/assets/` are cut unchanged from the Mafianacho logo s
 | 파일 · File | 용도 · Use |
 |---|---|
 | `logo-horizontal.png` | 가로형, 밝은 배경 · horizontal, light backgrounds |
+| `logo-horizontal-dark.png` | 가로형, 어두운 카드 · horizontal, on its dark card |
 | `logo-stacked-dark.png` | 세로형, 어두운 카드 · stacked, on its dark card |
 | `logo-stacked-mono.png` | 세로형, 단색 · stacked, one colour |
 | `logo-icon.png` | 아이콘 단독 · icon only |
+
+`product-*.png/gif`는 각 제품 레포에 이미 있는 이미지를 같은 어두운 프레임에 자르기·확대만 해서 넣은 조직 프로필용 카드입니다.
+
+`product-*` files are the existing screenshots of each product repository, only cropped and scaled into one identical dark frame for the organization profile.
